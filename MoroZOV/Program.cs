@@ -1,1 +1,2 @@
-﻿Console.WriteLine("wwwwwwwwwwwwww");
+﻿using MoroZOV;
+Programm1.main();
