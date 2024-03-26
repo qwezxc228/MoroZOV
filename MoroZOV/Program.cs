@@ -1,2 +1,2 @@
 ﻿using MoroZOV;
-Programm1.main();
+Programm2.main();       
